@@ -40,10 +40,10 @@ Created a Power BI dashboard using the UCI dataset to uncover clinical and demog
 - [Pakistans-Largest-Companies](https://github.com/Ali-Jan/Pakistans-Largest-Companies)   
 Visualized market cap insights by sector and city using 2024 data in Power BI.
 
-- [B & J Biscuit Dashboard](https://github.com/Ali-Jan/B-J-Biscuit-Dashboard)
+- [B & J Biscuit Dashboard](https://github.com/Ali-Jan/B-J-Biscuit-Dashboard)   
 Developed an interactive dashboard to track revenue, profitability, and top performers across time, products, and regions.
 
-- [Adventure Works Sales Analysis](https://github.com/Ali-Jan/Adventure-Works-Sales-Analysis---Excel-Dashboard)
+- [Adventure Works Sales Analysis](https://github.com/Ali-Jan/Adventure-Works-Sales-Analysis---Excel-Dashboard)   
 Conducted time-series and product-level analysis across global markets to uncover key profitability drivers.
 
 ---

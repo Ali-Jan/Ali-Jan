@@ -46,6 +46,17 @@ Developed an interactive dashboard to track revenue, profitability, and top perf
 - [Adventure Works Sales Analysis](https://github.com/Ali-Jan/Adventure-Works-Sales-Analysis---Excel-Dashboard)   
 Conducted time-series and product-level analysis across global markets to uncover key profitability drivers.
 
+- [Amazon Review Sentiment Classification](https://www.credly.com/badges/7f668ad8-9973-4e02-9a17-67eba9991281/public_url)   
+Trained NLP models using TF-IDF and scikit-learn to classify sentiments in Amazon reviews and interpret key predictive features.
+
+- [Nursing Home Fine Prediction](https://www.credly.com/badges/7f668ad8-9973-4e02-9a17-67eba9991281/public_url)   
+Built ML models to predict inspection fine probability and amount using U.S. nursing home data and scikit-learn pipelines.
+
+- [NHS Prescription Outlier Detection](https://www.credly.com/badges/38eff4f9-d5dc-4559-85564172c08f292c?source=linked_in_profile)   
+Detected anomalous opioid and rare drug prescriptions using statistical analysis on NHS data with pandas.
+
+
+
 ---
 
 ## Education & Certifications

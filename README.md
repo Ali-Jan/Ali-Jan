@@ -50,7 +50,7 @@ Used DAX in Power BI to visualize and explore customer KPIs.
 
 ## 📫 Connect with Me
 
-📧 [Email](mailto:AliJanAli3131@gmail.com)  
+📧 [Email](AliJanAli3131@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/AliJanAli3131)  
 💻 [GitHub](https://github.com/Ali-Jan)
 

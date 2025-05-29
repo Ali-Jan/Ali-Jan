@@ -31,8 +31,21 @@ Built a Power BI dashboard to uncover $2.9M churn loss factors.
 - [Customer Performance Dashboard](https://github.com/Ali-Jan/Customer-Performance-Dashboard)  
 Used DAX in Power BI to visualize and explore customer KPIs.
 
+- [Customer Shopping Trend Analysis](https://github.com/Ali-Jan/Customer-Shopping-Trend-Analysis-Power-BI-Dashboard)   
+Designed a dashboard to uncover customer behavior patterns by age, gender, category, season, and location—highlighting key drivers of sales and satisfaction.
+
 - [Heart Disease Dashboard](https://github.com/Ali-Jan/Heart_Disease)   
-This repository contains a Power BI dashboard built using a real dataset of heart disease patients from the Heart Disease Cleveland UCI Repository. The dashboard provides insights into various clinical and demographic attributes to support data-driven decisions and health analytics.
+Created a Power BI dashboard using the UCI dataset to uncover clinical and demographic insights.
+
+- [Pakistans-Largest-Companies](https://github.com/Ali-Jan/Pakistans-Largest-Companies)   
+Visualized market cap insights by sector and city using 2024 data in Power BI.
+
+- [B & J Biscuit Dashboard](https://github.com/Ali-Jan/B-J-Biscuit-Dashboard)
+Developed an interactive dashboard to track revenue, profitability, and top performers across time, products, and regions.
+
+- [Adventure Works Sales Analysis](https://github.com/Ali-Jan/Adventure-Works-Sales-Analysis---Excel-Dashboard)
+Conducted time-series and product-level analysis across global markets to uncover key profitability drivers.
+
 ---
 
 ## Education & Certifications

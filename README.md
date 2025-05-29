@@ -15,7 +15,7 @@ A professional **Data Analyst** with a background in Mathematics and 7+ years of
 **Languages:** Python, SQL  
 **Tools:** Power BI, Tableau, Excel, Jupyter Notebook, Google Colab  
 **Databases:** MySQL, SQL Server  
-**ML/DS Skills:** Supervised & Unsupervised Learning, Data Cleaning, Feature Engineering, Hypothesis Testing, Model Evaluation
+**ML/DS Skills:** Supervised & Unsupervised Learning, Data Cleaning, Feature Engineering, Hypothesis Testing, Model Evaluation   
 **Soft Skills:** Communication, Problem Solving, Attention to Detail, Collaboration, Analytical Thinking
 
 ---

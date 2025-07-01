@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Ali Jan
+# Ali Jan here — welcome to my data space
+Data Analyst | Math Brain | Dashboard Addict
 
-A professional **Data Analyst** with a background in Mathematics and 7+ years of experience in sales operations. Transitioned into data analytics with a strong foundation in Excel, SQL, Power BI, Tableau, Python, Data Manipulation and Data Visualization. 
+I went from crunching numbers in the world of sales ops to making data talk with **Python, Power BI, Tableau & SQL**. With 7+ years of experience and a background in mathematics, I’m all about **finding stories in spreadsheets** and **solving problems with pixels, queries, and code**.
 
 ## I specialize in:
-- Data Cleaning & Transformation
-- Interactive Dashboards & Reports
-- Business Insights & KPI Analysis
-- Predictive Analytics & Customer Behavior
+- Cleaning & wrangling messy data like a pro
+- Building dashboards that actually get used
+- Tracking KPIs & uncover what’s driving the business
+- Predict future trends using machine learning (yes, the fun stuff)
 
 ---
 
-## Tools & Technologies
+## Tech I Use (a lot)
 
 **Languages:** Python, SQL  
 **Tools:** Power BI, Tableau, Excel, Jupyter Notebook, Google Colab  
@@ -20,7 +21,8 @@ A professional **Data Analyst** with a background in Mathematics and 7+ years of
 
 ---
 
-## My Projects
+## Projects I’ve Built
+Some of my favorite builds — feel free to click around:
 
 - [Ali Stores Sales Analysis](https://github.com/Ali-Jan/Stores-Sales-Analysis)  
 Analyzed $2.26M in sales and $1.13M profit using Excel + Power Query.
@@ -59,7 +61,7 @@ Detected anomalous opioid and rare drug prescriptions using statistical analysis
 
 ---
 
-## Education & Certifications
+## Background & Badges
 
 - MSc Mathematics — University of Balochistan  
 - Data Analytics Bootcamp — atomcamp (2025)  
@@ -67,19 +69,19 @@ Detected anomalous opioid and rare drug prescriptions using statistical analysis
 
 ---
 
-## Achievements
+## Highlights
 
--  Earned 2 WorldQuant Honors Badges in Data Science  
-- Topper in BPSC & FPSC Math Lecturer Tests (x3)  
-- Recognized Sales Executive at TCS (2017–2024)
+- 2x WorldQuant Honors in Data Science
+- 6x Topper in BPSC & FPSC Math Lecturer Tests  
+- 7+ years of performance-driven work at TCS
 
 ---
 
-## Connect with Me
+## Lets Connect
 
 - Email: AliJanAli3131@gmail.com    
 - LinkedIn: https://www.linkedin.com/in/AliJanAli3131    
 - GitHub: https://github.com/Ali-Jan
 
 ---
- *Passionate about bringing value through data.*
+ **Data is cool. Solving real problems with it? Even cooler.**
